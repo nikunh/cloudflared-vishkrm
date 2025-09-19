@@ -6,5 +6,5 @@
   "documentationURL": "https://github.com/nikunh/cloudflared-vishkrm",
   "licenseURL": "https://github.com/nikunh/cloudflared-vishkrm/blob/main/LICENSE",
   "options": {},
-  "installsAfter": []
+  "installsAfter": ["ghcr.io/nikunh/001-dev-packages-vishkrm/001-dev-packages"]
 }
