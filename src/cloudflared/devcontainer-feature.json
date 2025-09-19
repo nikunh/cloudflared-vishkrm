@@ -1,0 +1,10 @@
+{
+  "id": "cloudflared",
+  "version": "0.0.1",
+  "name": "Cloudflared Tunnel",
+  "description": "Installs and configures Cloudflared tunnel service.",
+  "documentationURL": "https://github.com/nikunh/cloudflared-vishkrm",
+  "licenseURL": "https://github.com/nikunh/cloudflared-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": []
+}
