@@ -1,6 +1,6 @@
 {
   "id": "cloudflared",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "name": "Cloudflared Tunnel",
   "description": "Installs and configures Cloudflared tunnel service.",
   "documentationURL": "https://github.com/nikunh/cloudflared-vishkrm",
